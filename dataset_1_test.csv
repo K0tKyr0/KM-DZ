@@ -1,0 +1,18 @@
+key,value
+grain,1
+par_1,7
+par_2,
+par_3,0.1
+p_a,0.1519353023e6
+p_h,1e5
+T_0_min,223.15
+T_0_norm,293.15
+T_0_max,323.15
+bar_e_0_step, 0.02
+bar_e_0_min, 0.316
+bar_e_0_max,0.317
+p_nom_step, 8e6
+p_nom_min, 10.3265744279e6
+p_nom_max,8e6 
+chi, 0.98
+mu_s,1
